@@ -13,7 +13,7 @@ When the relationship between two assets deviates significantly from its histori
 
 ## 📸 Live Dashboard Preview
 
-![Real-Time Statistical Arbitrage Dashboard](Architecture Diagram/dashboard.jpeg)
+![Real-Time Statistical Arbitrage Dashboard](Architecture%20Diagram/dashboard.jpeg)
 
 **What this shows:**
 
@@ -25,7 +25,7 @@ When the relationship between two assets deviates significantly from its histori
 
 ## 🛠️ System Architecture
 
-![System Architecture Flow](Architecture Diagram/flow.jpeg)
+![System Architecture Flow](Architecture%20Diagram/flow.jpeg)
 
 **Architecture explanation:**
 
