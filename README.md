@@ -25,7 +25,7 @@ When the relationship between two assets deviates significantly from its histori
 
 ## 🛠️ System Architecture
 
-![System Architecture Flow](Architecture%20Diagram/flow.jpeg)
+![System Architecture Flow](Architecture%20Diagram/Flow.jpeg)
 
 **Architecture explanation:**
 
