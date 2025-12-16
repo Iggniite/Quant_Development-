@@ -1,0 +1,35 @@
+Project: Quant Analytics Dashboard
+Date: December 16, 2025
+
+1. Overview of AI Usage
+I have used AI tools to speed up the project, I have mentioned below how and what prompts were used by me:
+
+2. Prompts Used
+Below ar prompts used during the development process:
+
+- "Create a Python script using asyncio and websockets to connect to Binance 
+   stream and save trade data to a local SQLite database."
+- "How do I calculate a rolling hedge ratio and Z-score using Python pandas 
+   and statsmodels?"
+- "Show me how to make a 5-row subplot in Plotly that shares the X-axis."
+- "Write a function to simulate a simple mean-reversion backtest given a 
+   Z-score series."
+- "All the requirements are met ?"
+
+A. Backend (Ingestion)
+   - AI was used to draft the 'asyncio' pattern for handling WebSocket connections 
+     robustly, specifically the reconnection logic in 'ingestion.py'.
+   - Generated standard SQL queries for creating the SQLite table schema.
+
+B. Analytics (Math)
+  - Consulted AI to confirm the correct implementation of the OLS Regression 
+     syntax using 'statsmodels.api' to ensure the intercept was handled correctly.
+  - Requested a template for the Augmented Dickey-Fuller (ADF) test interpretation.
+
+C. Frontend (Visualization)
+   - Used AI to generate the 'Plotly' subplot structure to stack 5 rows of charts 
+     (Price, Spread, Z-Score, Correlation, PnL) efficiently.
+   - Assisted in writing the 'Streamlit' state management logic for the 
+     auto-refresh loop.
+
+

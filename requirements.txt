@@ -1,0 +1,8 @@
+websockets
+asyncio
+pandas
+numpy
+statsmodels
+streamlit
+plotly
+sqlalchemy
